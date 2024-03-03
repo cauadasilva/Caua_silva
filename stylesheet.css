@@ -1,0 +1,49 @@
+
+body{
+  
+  background-image: linear-gradient( to right, blue, red);
+  
+  
+}
+#h1{
+  padding: 1px;
+  margin-top: 20px;
+  color: white;
+  margin-left: 10px;
+  font-family: Courier New;
+  
+}
+#nav1{
+  background: white;
+  width: 360px;
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  border-radius: 22px;
+  margin-top: 20px;
+  box-shadow: 5px 5px 20px rgba(0,0,0,0.3);
+}
+#nav1 > a {
+  
+  color:black;
+  text-decoration: none;
+  padding: 8px 16px;
+  border-radius: 22px;
+}
+
+
+li{
+  
+  color: white;
+  
+}
+
+#p{
+}
+
+#p > li {
+  
+  text-decoration: none;
+  
+  
+}
